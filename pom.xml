@@ -7,7 +7,7 @@
   <groupId>com.restro</groupId>
   <artifactId>demo</artifactId>
   <version>1.0</version>
-  <packaging>jar</packaging>
+  <packaging>war</packaging>
 
   <name>demo Maven Webapp</name>
   <url>http://demo.restro.com</url>
